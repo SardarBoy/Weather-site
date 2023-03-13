@@ -1,2 +1,2 @@
 # Weather-site
- Weather site using HTML, CSS , JS
+[https://sardarboy.github.io/Weather-site/]
